@@ -1,7 +1,23 @@
 {
   "common": {
-      "version": "versjon",
-      "current": "nåværende"
+    "version": "versjon",
+    "current": "nåværende"
+  },
+  "editor": {
+    "card": {
+      "climate": {
+        "disable_window": "Deaktiver vindu",
+        "disable_summer": "Deaktiver sommer",
+        "disable_eco": "Deaktiver øko",
+        "disable_heat": "Deaktiver varme",
+        "disable_off": "Deaktiver av",
+        "disable_menu": "Deaktiver meny",
+        "disable_battery_warning": "Deaktiver battrivarsel",
+        "disable_buttons": "Deaktiver pluss/minus knapper",
+        "eco_temperature": "Øko temperatur",
+        "set_current_as_main": "Bytt plassering av nåværende temperatur"
+      }
+    }
   },
   "extra_states": {
     "window_open": "Vindu åpent",
